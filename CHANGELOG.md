@@ -10,6 +10,12 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 - Add new language support.
 
+## [1.0.1] - 2021-05-18
+
+### Added
+
+- The console colors.
+
 ## [1.0.0] - 2020-11-03
 
 ### Added

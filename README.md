@@ -2,7 +2,7 @@
 
 The Dark Purple is a simple color scheme for the IntelliJ IDEA. This is a dark color scheme that colors the code in the editor with the primary CMYK colors.
 
-[![status](https://img.shields.io/badge/status-frozen-inactive?style=flat-square)](BADGES_GUIDE.md#status) [![version](https://img.shields.io/badge/version-1.0.0-informational?style=flat-square)](BADGES_GUIDE.md#version) [![stable](https://img.shields.io/badge/stable-yes-important?style=flat-square)](BADGES_GUIDE.md#stable) [![latest release date](https://img.shields.io/badge/latest_release_date-November_03,_2020-informational?style=flat-square)](BADGES_GUIDE.md#release-date) [![last commit](https://img.shields.io/badge/last_commit-November_03,_2020-informational?style=flat-square)](BADGES_GUIDE.md#commit-date)
+[![status](https://img.shields.io/badge/status-frozen-inactive?style=flat-square)](BADGES_GUIDE.md#status) [![version](https://img.shields.io/badge/version-1.0.1-informational?style=flat-square)](BADGES_GUIDE.md#version) [![stable](https://img.shields.io/badge/stable-yes-important?style=flat-square)](BADGES_GUIDE.md#stable) [![latest release date](https://img.shields.io/badge/latest_release_date-May_18,_2021-informational?style=flat-square)](BADGES_GUIDE.md#release-date) [![last commit](https://img.shields.io/badge/last_commit-May_18,_2021-informational?style=flat-square)](BADGES_GUIDE.md#commit-date)
 
 [![license](https://img.shields.io/badge/license-MIT-informational?style=flat-square)](LICENSE)
 
